@@ -173,3 +173,7 @@ p.copyright {
     width: 135px;
     margin-top: -15px;
 }
+
+.spacer {
+    margin: 0 20px;
+}
