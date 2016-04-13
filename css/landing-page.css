@@ -191,11 +191,25 @@ p.copyright {
     font-size: 18px;
     font-weight: 400
 }
+
 .topic li {
     margin: 15px 0;
 }
+
 .text-divider {
-    width: 400px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
-    width: 100%;se
+    width: 100%;
+}
+
+.lead-last {
+    margin-bottom: -20px;
+}
+
+.lead-noheader {
+    margin-top: -20px;
+}
+
+footer {
+    border-top: 1px solid #e7e7e7;
+}
