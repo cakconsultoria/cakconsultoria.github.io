@@ -213,3 +213,7 @@ p.copyright {
 footer {
     border-top: 1px solid #e7e7e7;
 }
+
+.nowrap {
+    white-space: nowrap;
+}
